@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: TheDeveloper
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
